@@ -1,0 +1,6 @@
+Failure_Category,Ticket_Count,Share_Pct,Total_Downtime_Hrs,Avg_Downtime_Hrs,Total_Repair_Cost_USD,Avg_Repair_Cost_USD
+Hydraulic & Pneumatic Leaks,287,23.9,810.2,2.82,231948.73,808.18
+Bearing & Spindle Wear,292,24.3,828.4,2.84,225894.23,773.61
+Electrical & Sensor Faults,226,18.8,623.7,2.76,176215.97,779.72
+Alignment & Calibration,229,19.1,409.4,1.79,117115.99,511.42
+Operator & Process Error,166,13.8,287.4,1.73,72716.63,438.05

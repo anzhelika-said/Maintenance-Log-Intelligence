@@ -1,0 +1,6 @@
+Asset_ID,Alignment & Calibration,Bearing & Spindle Wear,Electrical & Sensor Faults,Hydraulic & Pneumatic Leaks,Operator & Process Error
+Assembly-Cell-B,36,69,62,38,42
+CNC-Mill-01,48,75,55,33,39
+CNC-Mill-02,45,81,48,37,43
+Hydraulic-Bender-03,54,35,31,86,19
+Press-Line-A,46,32,30,93,23

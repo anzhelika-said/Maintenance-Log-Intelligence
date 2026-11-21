@@ -1,0 +1,76 @@
+Failure_Category,Rank,Learned_Term,Model_Weight
+Alignment & Calibration,1,calibration,1.7447
+Alignment & Calibration,2,axis,1.4891
+Alignment & Calibration,3,setup,1.2604
+Alignment & Calibration,4,offset laser,1.2604
+Alignment & Calibration,5,shift setup,1.2604
+Alignment & Calibration,6,laser,1.2604
+Alignment & Calibration,7,laser calibration,1.2604
+Alignment & Calibration,8,alignment required,0.936
+Alignment & Calibration,9,axis alignment,0.936
+Alignment & Calibration,10,drifting tolerance,0.936
+Alignment & Calibration,11,drifting,0.936
+Alignment & Calibration,12,dimensions,0.936
+Alignment & Calibration,13,dimensions drifting,0.936
+Alignment & Calibration,14,required,0.936
+Alignment & Calibration,15,alignment,0.936
+Bearing & Spindle Wear,1,spindle,1.8403
+Bearing & Spindle Wear,2,bearing,1.8008
+Bearing & Spindle Wear,3,vibration,1.3882
+Bearing & Spindle Wear,4,spec,0.9466
+Bearing & Spindle Wear,5,sound reported,0.9466
+Bearing & Spindle Wear,6,sound,0.9466
+Bearing & Spindle Wear,7,runout,0.9466
+Bearing & Spindle Wear,8,runout spec,0.9466
+Bearing & Spindle Wear,9,reported operator,0.9466
+Bearing & Spindle Wear,10,reported,0.9466
+Bearing & Spindle Wear,11,grinding,0.9466
+Bearing & Spindle Wear,12,spindle runout,0.9466
+Bearing & Spindle Wear,13,grinding sound,0.9466
+Bearing & Spindle Wear,14,bearing rumble,0.9073
+Bearing & Spindle Wear,15,trending,0.9073
+Electrical & Sensor Faults,1,sensor,1.5382
+Electrical & Sensor Faults,2,fault,1.5032
+Electrical & Sensor Faults,3,intermittent stop,1.042
+Electrical & Sensor Faults,4,causing,1.042
+Electrical & Sensor Faults,5,proximity sensor,1.042
+Electrical & Sensor Faults,6,stop,1.042
+Electrical & Sensor Faults,7,fault causing,1.042
+Electrical & Sensor Faults,8,sensor fault,1.042
+Electrical & Sensor Faults,9,proximity,1.042
+Electrical & Sensor Faults,10,intermittent,1.042
+Electrical & Sensor Faults,11,causing intermittent,1.042
+Electrical & Sensor Faults,12,flickering,0.935
+Electrical & Sensor Faults,13,input,0.935
+Electrical & Sensor Faults,14,plc,0.935
+Electrical & Sensor Faults,15,overload alarm,0.935
+Hydraulic & Pneumatic Leaks,1,leak,1.5744
+Hydraulic & Pneumatic Leaks,2,seal,1.5744
+Hydraulic & Pneumatic Leaks,3,pneumatic,1.5572
+Hydraulic & Pneumatic Leaks,4,pressure,1.3322
+Hydraulic & Pneumatic Leaks,5,hydraulic,1.2031
+Hydraulic & Pneumatic Leaks,6,leak seal,1.0984
+Hydraulic & Pneumatic Leaks,7,pneumatic leak,1.0984
+Hydraulic & Pneumatic Leaks,8,actuator,1.0984
+Hydraulic & Pneumatic Leaks,9,seal wear,1.0984
+Hydraulic & Pneumatic Leaks,10,actuator sluggish,1.0984
+Hydraulic & Pneumatic Leaks,11,sluggish,1.0984
+Hydraulic & Pneumatic Leaks,12,hydraulic power,0.9316
+Hydraulic & Pneumatic Leaks,13,fitting,0.9316
+Hydraulic & Pneumatic Leaks,14,unit hose,0.9316
+Hydraulic & Pneumatic Leaks,15,hose,0.9316
+Operator & Process Error,1,cycle,1.4245
+Operator & Process Error,2,batch,0.9654
+Operator & Process Error,3,caused,0.9654
+Operator & Process Error,4,caused scrap,0.9654
+Operator & Process Error,5,entered,0.9654
+Operator & Process Error,6,entered operator,0.9654
+Operator & Process Error,7,offset entered,0.9654
+Operator & Process Error,8,scrap,0.9654
+Operator & Process Error,9,scrap batch,0.9654
+Operator & Process Error,10,shift caused,0.9654
+Operator & Process Error,11,wrong,0.9654
+Operator & Process Error,12,wrong tool,0.9654
+Operator & Process Error,13,topped,0.958
+Operator & Process Error,14,topped run,0.958
+Operator & Process Error,15,thermal,0.958
