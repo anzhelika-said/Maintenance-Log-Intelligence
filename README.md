@@ -45,3 +45,5 @@ This project provides a **code-first, interpretable NLP and reliability triage p
     ```bash
     python3 generate_maintenance_logs.py
     python3 analyze_maintenance_logs.py
+
+*Note: All datasets, supplier names, and financial figures in this repository are entirely synthetic and created for portfolio demonstration purposes.*
